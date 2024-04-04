@@ -1,7 +1,5 @@
-# Spotify Clone Using HTML CSS
+# Music Web Using HTML CSS
 
-Youtube Tutorial Link: https://youtu.be/TdjmTjuU8JE
+//Youtube Tutorial Link: https://youtu.be/TdjmTjuU8JELive Preview: https://constgenius.github.io/Spotify_Clone_HTML_CSS/
 
-Live Preview: https://constgenius.github.io/Spotify_Clone_HTML_CSS/
-
-![Spotify Clone](images/SpotifyClone.png)
+//(images/SpotifyClone.png)
